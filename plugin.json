@@ -1,0 +1,7 @@
+{
+  "name": "general-agent-plugin",
+  "version": "1.0.0",
+  "description": "General-purpose rules for agents, one file per rule under rules/.",
+  "license": "MIT",
+  "keywords": ["rules", "agents", "verification", "accuracy"]
+}
